@@ -1,0 +1,7 @@
+{
+    "type": "motion",
+    "brain_port": "5000",
+    "sensor_port": "8800",
+    "brain_ip": "74.109.246.160",
+    "light_time": "30"
+}

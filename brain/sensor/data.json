@@ -1,0 +1,17 @@
+[
+    {
+        "sensor": "motion",
+        "ip_address": "192.168.1.80",
+        "value": "off"
+    },
+    {
+        "sensor": "rfid",
+        "ip_address": "",
+        "value": ""
+    },
+    {
+        "sensor": "temperature",
+        "ip_address": "",
+        "value": ""
+    }
+]

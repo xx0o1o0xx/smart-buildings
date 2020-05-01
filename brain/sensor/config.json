@@ -1,0 +1,6 @@
+{
+    "brain_port": "9000",
+    "sensor_port": "8800",
+    "brain_ip": "",
+    "light_time":"20"
+}
